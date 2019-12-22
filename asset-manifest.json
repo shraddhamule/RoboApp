@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/RoboApp/static/css/main.a0cfa00e.chunk.css",
+    "main.js": "/RoboApp/static/js/main.78b032f3.chunk.js",
+    "main.js.map": "/RoboApp/static/js/main.78b032f3.chunk.js.map",
+    "runtime-main.js": "/RoboApp/static/js/runtime-main.d8d33ae9.js",
+    "runtime-main.js.map": "/RoboApp/static/js/runtime-main.d8d33ae9.js.map",
+    "static/js/2.9dea136f.chunk.js": "/RoboApp/static/js/2.9dea136f.chunk.js",
+    "static/js/2.9dea136f.chunk.js.map": "/RoboApp/static/js/2.9dea136f.chunk.js.map",
+    "index.html": "/RoboApp/index.html",
+    "precache-manifest.24e9b15458b34df6eca987d3f21ce619.js": "/RoboApp/precache-manifest.24e9b15458b34df6eca987d3f21ce619.js",
+    "service-worker.js": "/RoboApp/service-worker.js",
+    "static/css/main.a0cfa00e.chunk.css.map": "/RoboApp/static/css/main.a0cfa00e.chunk.css.map",
+    "static/js/2.9dea136f.chunk.js.LICENSE": "/RoboApp/static/js/2.9dea136f.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8d33ae9.js",
+    "static/js/2.9dea136f.chunk.js",
+    "static/css/main.a0cfa00e.chunk.css",
+    "static/js/main.78b032f3.chunk.js"
+  ]
+}
