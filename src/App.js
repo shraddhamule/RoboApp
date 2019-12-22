@@ -33,7 +33,7 @@ class App extends React.Component {
 
          <div className="App">
           <h1 id="title">ROBO FRIENDS</h1>
-          <input type="text" placeholder=" Search Robots" onChange={(e)=>this.setState({searchField:e.target.value})}/>
+          <input type="text" placeholder=" Search robofriends" onChange={(e)=>this.setState({searchField:e.target.value})}/>
             <Cardlist users = {filteredRobot} />
        </div>
        )
